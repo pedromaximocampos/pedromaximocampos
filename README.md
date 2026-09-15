@@ -1,5 +1,5 @@
 <h1 align="center">Pedro Máximo</h1>
----
+
 <p align="center">
   <b>Software Developer</b> | Backend & Full Stack | Python | Java | JavaScript | AWS
 </p>
