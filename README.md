@@ -9,29 +9,19 @@
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-maximo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
 </p>
 
-
-
 ## 👨‍💻 About
-
 🇺🇸 **EN**  
 Software Developer at **LBC Sistemas** and Software Engineering student at **PUC Minas**, graduating in 2026.
-
 I work primarily on the development of **Python APIs and backend services**, using **Flask** and  **FastAPI**. I also have experience with **Java** and frontend development using **Vue.js**, while my main focus remains on backend development. My day-to-day work involves building and maintaining APIs, implementing business rules, integrations, data-processing routines and working with databases such as **MongoDB and Redis**.
-
 I also have experience with **AWS services**, working on integrations involving **SNS, SQS, DynamoDB and S3**, while deepening my understanding of **event-driven architectures and distributed systems**.
-
 My current studies are also focused on **software architecture, DDD, Clean Architecture and Infrastructure as Code**, particularly using **Terraform** to better understand cloud infrastructure provisioning and management.
 
 🇧🇷 **PT**  
 Desenvolvedor de Software na **LBC Sistemas** e estudante de Engenharia de Software na **PUC Minas**, com formação prevista para 2026.
-
 Atuo principalmente no desenvolvimento de **APIs e serviços backend em Python**, utilizando **Flask** e **FastAPI**. Também possuo experiência com **Java** e desenvolvimento frontend utilizando **Vue.js**, mantendo meu foco principal em backend. No dia a dia, trabalho com construção e manutenção de APIs, implementação de regras de negócio, integrações, rotinas de processamento de dados e bancos como **MongoDB e Redis**.
-
 Também estou adquirindo experiência prática com **serviços AWS**, trabalhando em integrações envolvendo **SNS, SQS, DynamoDB e S3**, ao mesmo tempo em que aprofundo meus conhecimentos em **arquiteturas orientadas a eventos e sistemas distribuídos**.
-
 Meus estudos atuais também estão voltados para **arquitetura de software, DDD, Clean Architecture e Infrastructure as Code**, especialmente com **Terraform**, buscando entender melhor o provisionamento e gerenciamento de infraestrutura em nuvem.
 
 ---
