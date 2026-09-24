@@ -64,6 +64,16 @@ Trabalho com serviços **AWS** como **SNS, SQS, DynamoDB e S3** e aprofundo atua
 
 ---
 
+## 🚧 Currently Working On
+
+I am currently developing **Reflecta**, my Software Engineering capstone project at **PUC Minas**. Reflecta is an AI-assisted journaling platform designed to help users identify recurring themes in their reflections and connect them with curated philosophical, literary and cultural knowledge.
+
+The project gives me the opportunity to apply and consolidate concepts such as **modular monoliths, Domain-Driven Design, Clean Architecture, REST APIs, authentication and authorization, event-driven processing and automated testing**. Its current stack includes **Python, FastAPI, PostgreSQL, pgvector, Neo4j, Docker and AWS services such as SNS, SQS, Lambda and SES**.
+
+More than an academic deliverable, Reflecta is an ongoing record of my growth as a software engineer. Its development shows how my architectural decisions, code quality, testing practices, cloud knowledge and ability to handle a complex system are evolving through continuous study and hands-on implementation.
+
+---
+
 
 ## 🌱 Currently Deepening
 
